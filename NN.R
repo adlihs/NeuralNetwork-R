@@ -1,4 +1,6 @@
-## CREATTING INDEX VARIABLE
+#https://www.analyticsvidhya.com/blog/2017/09/creating-visualizing-neural-network-in-r/
+
+## CREATING INDEX VARIABLE
 
 #READ THE DATA
 data <- read.csv("cereals.csv", header = T)
